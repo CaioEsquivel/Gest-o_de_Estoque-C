@@ -1,2 +1,1 @@
-# Gest-o_de_Estoque-C
-Controle de estoque simples utilizando vetores (1D) em C.
+Programa em linguagem C que utiliza vetores unidimensionais para armazenar códigos de produtos e suas respectivas quantidades. Simula um controle básico de estoque com entrada de dados via usuário e exibição das informações cadastradas.
